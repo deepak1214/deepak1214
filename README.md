@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Deepak
 - 👀 I’m interested in problem solving and web development
 - 🌱 I’m currently learning new techniques to solve harder problems and new technologies
-- 💞️ I’m looking to collaborate on web development projects
+- 💞️ I’m looking to collaborate on web development and competitive programming  projects
 - 📫 You can find me on linkedin :- https://www.linkedin.com/in/deepak-manglani-b252521a9/
 
 <!---
