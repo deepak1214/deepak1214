@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @deepak1214
+- 👋 Hi, I’m Deepak
 - 👀 I’m interested in problem solving and web development
 - 🌱 I’m currently learning new techniques to solve harder problems and new technologies
 - 💞️ I’m looking to collaborate on web development projects
