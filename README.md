@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepak Manglani</h1>
-<h3 align="center">A passionate Competitive Programmer & Web Developer. I am a third year CSE undergrad student. I am full Stack Web dev in MERN stack.I love practicing & teaching Data Structures & Algorithms.</h3>
+<h3 align="center">A passionate Competitive Programmer & Web Developer. I am a final year CSE undergrad student. I am full Stack Web dev in MERN stack.I love practicing & teaching Data Structures & Algorithms.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak1214&label=Profile%20views&color=0e75b6&style=flat" alt="deepak1214" /> </p>
 
